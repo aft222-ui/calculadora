@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora Científica Pro",
+  "description": "Una calculadora científica completa y accesible, diseñada con React y Tailwind CSS. Realiza desde operaciones básicas hasta cálculos trigonométricos, logarítmicos y más. Interfaz en español y optimizada para lectores de pantalla para una experiencia de usuario inclusiva.",
+  "requestFramePermissions": []
+}
